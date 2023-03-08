@@ -39,6 +39,14 @@
       "type": "outcome",
       "createdAt": "2023-03-08T15:05:43.490Z",
       "id": 5
+    },
+    {
+      "description": "Magalu",
+      "price": 30,
+      "category": "Serviços",
+      "type": "income",
+      "createdAt": "2023-03-08T16:30:07.692Z",
+      "id": 6
     }
   ]
 }
